@@ -20,9 +20,11 @@ It features a collection of automagically installation of  Patched AppleHDA for 
 This will sort out your audio related problems in Hackintosh . After installation you will get your Sound working.
 You just need to change Layout_ID as per mentioned in README after installation it will be on desktop.
 
-Contribution to Project ::
-
+**Contribution to Project ::
+**
 Please provide or send Codec.text file which will automatically create after successful installation . just Email or PM to Me.
+**Please contribute to project so it can supports wide range of Laptop and Desktops** 
+
 
 All in one Audio Solution ::
 
