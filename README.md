@@ -65,4 +65,4 @@ Kynnder  - For his support and giving me the chance to learn a lot from him.
 
 Thanks to all Tester, Volunteer and Contributors to this Project .
    
-                            **!!!!Happy Hackintoshing !!!!**
+                            !!!!Happy Hackintoshing !!!!
