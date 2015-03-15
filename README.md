@@ -19,7 +19,7 @@ You just need to change Layout_ID as per mentioned in README after installation 
 **
 Please provide or send Codec.text file which will automatically create after successful installation . just Email or PM to Me.
  
-** Note** 
+ Note
 **Please contribute to project so it can supports wide range of Laptop and Desktops** 
 
 
@@ -32,7 +32,7 @@ The tool is created by :
 
 Main source page:
 
-[](https://insanelydeepak.wordpress.com/2015/03/13/high-definition-audio-codec-installer-hackintosh/)
+High Definition Audio Codec Hackintosh
  
 Support email: Insanelydeepak@gamil.com
 
