@@ -23,10 +23,12 @@ You just need to change Layout_ID as per mentioned in README after installation 
 **Contribution to Project ::
 **
 Please provide or send Codec.text file which will automatically create after successful installation . just Email or PM to Me.
+ 
+** Note** 
 **Please contribute to project so it can supports wide range of Laptop and Desktops** 
 
 
-All in one Audio Solution ::
+# All in one Audio Solution :: #
 
 The AIO Ultimate Audio-Post-Installation Utility 
 
@@ -51,7 +53,7 @@ To all amazing developers who coded these awesome stuff :
 
 Developers :
 
- ndyVindijick, Mirone, EmlyDinesh, Kynnder, king, Master Chief, RevoGirl, toleda, bcc9, TimeWalker, Mirone ,Slice , VoodooHDA Team and many others who contributed to AppleHDA patching.
+ AndyVindijick, Mirone, EmlyDinesh, Kynnder, king, Master Chief, RevoGirl, toleda, bcc9, TimeWalker, Mirone ,Slice , VoodooHDA Team and many others who contributed to AppleHDA patching.
 
 Special thanks to:
 
