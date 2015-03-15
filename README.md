@@ -7,14 +7,9 @@ Hoping this could help many people looking to  their Audio or Sound solution by 
 
 Also I don't take credit for all this work entirely except for appreciation on writing this guide. 
 The credit will go for all these people: king, Master Chief, RevoGirl, toleda, bcc9, TimeWalker, Mirone ,Slice , VoodooHDA Team and many others who contributed to AppleHDA patching.
-
    
-      
-      
-      
-      
                                 ￼
-All-in-One-Audio-Solution ::
+High Definition Audio Codec Installer ::
 
 It features a collection of automagically installation of  Patched AppleHDA for Audio Codec in Hackintosh. 
 This will sort out your audio related problems in Hackintosh . After installation you will get your Sound working.
@@ -28,16 +23,16 @@ Please provide or send Codec.text file which will automatically create after suc
 **Please contribute to project so it can supports wide range of Laptop and Desktops** 
 
 
-# All in one Audio Solution :: #
+# High Definition Audio Codec Installer :: #
 
-The AIO Ultimate Audio-Post-Installation Utility 
+The HDA Codec Ultimate Audio-Post-Installation Utility 
 
 The tool is created by :
 - Deepak
 
 Main source page:
 
-All-in-One-Audio Solution 
+High Definition Audio Codec Hackintosh
  
 Support email: Insanelydeepak@gamil.com
 
