@@ -32,7 +32,7 @@ The tool is created by :
 
 Main source page:
 
-High Definition Audio Codec Hackintosh
+[](https://insanelydeepak.wordpress.com/2015/03/13/high-definition-audio-codec-installer-hackintosh/)
  
 Support email: Insanelydeepak@gamil.com
 
@@ -62,4 +62,4 @@ Kynnder  - For his support and giving me the chance to learn a lot from him.
 
 Thanks to all Tester, Volunteer and Contributors to this Project .
                    
-Happy Hackintoshing !
+        !!Happy Hackintoshing !!
