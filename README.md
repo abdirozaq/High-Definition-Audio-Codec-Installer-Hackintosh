@@ -22,11 +22,11 @@ You just need to change Layout_ID as per mentioned in README after installation 
 
 Please provide or send Codec.text file which will automatically create after successful installation . just Email or PM to Me.
  
-** Note**
+**Note**
 **Please contribute to project so it can supports wide range of Laptop and Desktops** 
 
 
-**# High Definition Audio Codec Installer :: #**
+**High Definition Audio Codec Installer ::**
 
 The HDA Codec Ultimate Audio-Post-Installation Utility 
 
@@ -45,7 +45,7 @@ Website : [InsanelyDeepak Blog](https://insanelydeepak.wordpress.com)
 
 Twitter :[@insanelydeepak](https://twitter.com/insanelydeepak)
 
-Credits:
+**Credits:**
 
 To all amazing developers who coded these awesome stuff :  
 
@@ -53,7 +53,7 @@ Developers :
 
  AndyVindijick, Mirone, EmlyDinesh, Kynnder, king, Master Chief, RevoGirl, toleda, bcc9, TimeWalker, Mirone ,Slice , VoodooHDA Team and many others who contributed to AppleHDA patching.
 
-Special thanks to:
+**Special thanks to:**
 
 Mirone- For an awesome contribution to patching AppleHDA and providing wide range of Audio for Hackintosh world 
 
@@ -65,4 +65,4 @@ Kynnder  - For his support and giving me the chance to learn a lot from him.
 
 Thanks to all Tester, Volunteer and Contributors to this Project .
    
-    !!Happy Hackintoshing !!
+                 **!!!!Happy Hackintoshing !!!!**
