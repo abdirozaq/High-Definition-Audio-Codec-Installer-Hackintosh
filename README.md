@@ -1,3 +1,6 @@
+
+
+
 Hello Everyone
 
 This project dedicated to giving a finite solution to Hackintosh like we are having in other operating Systems like- Windows and Linux.
