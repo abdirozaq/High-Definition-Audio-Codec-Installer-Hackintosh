@@ -8,7 +8,7 @@ Hoping this could help many people looking to  their Audio or Sound solution by 
 Also I don't take credit for all this work entirely except for appreciation on writing this guide. 
 The credit will go for all these people: king, Master Chief, RevoGirl, toleda, bcc9, TimeWalker, Mirone ,Slice , VoodooHDA Team and many others who contributed to AppleHDA patching.
    
-                                ￼
+ 
 High Definition Audio Codec Installer ::
 
 It features a collection of automagically installation of  Patched AppleHDA for Audio Codec in Hackintosh. 
