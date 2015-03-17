@@ -55,13 +55,13 @@ Developers :
 
 #Special thanks to:
 
-Mirone- For an awesome contribution to patching AppleHDA and providing wide range of Audio for Hackintosh world 
+[Mirone](http://www.insanelymac.com/forum/user/702532-mirone/)- For an awesome contribution to patching AppleHDA and providing wide range of Audio for Hackintosh world 
 
-EmlyDinesh - For his support and help in patching AppleHDA.
+[EmlyDinesh](http://forum.osxlatitude.com/index.php?/user/7370-emlydinesh/) - For his support and help in patching AppleHDA.
 
-Chris1111 - For his Support.
+[Chris1111](http://www.insanelymac.com/forum/user/951341-chris1111/) - For his Support.
 
-Kynnder  - For his support and giving me the chance to learn a lot from him.
+[Kynnder](http://www.hackintoshosx.com/user/36680-kyndder/)  - For his support and giving me the chance to learn a lot from him.
 
 Thanks to all Tester, Volunteer and Contributors to this Project .
    
