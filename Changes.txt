@@ -1,5 +1,13 @@
 What’s New
 
+Version 2.3 (March 17, 2015):
+ 	▪	Add Backup kext with HDA Codecs 
+	▪	Add Supported Range of codecs
+	▪	Add Links to Patched Kexts Repo’s
+	▪	Update ALC269 AIO
+	▪	Removed VoodooHDA 
+	▪	Improvement and Bugfixes 
+	
 Version 2.2 (March 15, 2015):
          ▪ Support Yosemite 10.10.1
 
