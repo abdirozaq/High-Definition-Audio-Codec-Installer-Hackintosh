@@ -1,5 +1,5 @@
 
-![alt text](https://raw.githubusercontent.com/insanelydeepak/High-Definition-Audio-Codec-Installer-Hackintosh/master/HDA%20Codec.jpg)
+![alt text](https://insanelydeepak.files.wordpress.com/2015/03/background.png)
 
 Hello Everyone
 
