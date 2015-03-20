@@ -14,9 +14,9 @@ The credit will go for all these people: king, Master Chief, RevoGirl, toleda, b
  
 ##High Definition Audio Codec Installer ::
 
-It features a collection of automagically installation of  Patched AppleHDA for Audio Codec in Hackintosh. 
-This will sort out your audio related problems in Hackintosh . After installation you will get your Sound working.
-You just need to change Layout_ID as per mentioned in README after installation it will be on desktop.
+It features a collection of automagically installation of  Patched AppleHDA for Audio Codec in Hackintosh. This will sort out your audio related problems in Hackintosh . After installation you will get your Sound working.
+You just need to change Layout_ID as per mentioned in README after installation it will be in HDA Codec on Desktop.
+
 
 #Contribution to Project ::
 
