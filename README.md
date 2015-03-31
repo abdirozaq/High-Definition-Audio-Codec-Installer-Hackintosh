@@ -18,6 +18,13 @@ It features a collection of automagically installation of  Patched AppleHDA for 
 You just need to change Layout_ID as per mentioned in README after installation it will be in HDA Codec on Desktop.
 
 
+#AppleHDA Patched By ::
+Mirone
+Toleda
+EmlyDinesh
+Deepak
+
+
 #Contribution to Project ::
 
 Please provide or send Codec.text file which will automatically create after successful installation . just Email or PM to Me.
