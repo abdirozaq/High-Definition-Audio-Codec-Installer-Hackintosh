@@ -20,8 +20,11 @@ You just need to change Layout_ID as per mentioned in README after installation 
 
 ##AppleHDA Patched By ::
 Mirone
+
 Toleda
+
 EmlyDinesh
+
 Deepak
 
 
@@ -52,7 +55,7 @@ Website : [InsanelyDeepak Blog](https://insanelydeepak.wordpress.com)
 
 Twitter :[@insanelydeepak](https://twitter.com/insanelydeepak)
 
-**Credits:**
+##Credits:
 
 To all amazing developers who coded these awesome stuff :  
 
